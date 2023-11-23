@@ -47,7 +47,7 @@ print('all done')
 # two way decisions
 # sometime we want to do one thing if a logical expression is true3 and something else if the expression is false
 # its like a fork in the road, choose one or the other
-
+# ends up being part of the whole block
 x = 3
 if x > 2:
     print('bigger')
